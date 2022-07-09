@@ -1,0 +1,4 @@
+package com.study.books.cleancode.function.obj;
+
+public class Money {
+}
