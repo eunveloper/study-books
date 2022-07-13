@@ -73,7 +73,7 @@ public class FormatFit {
         // 함수 이름과 이어지는 괄호 사이에는 공백을 넣지 않았다. 함수와 인수는 서로 밀접하기 때문이다.
         int lineSize = line.length();
         // 할당 연산자를 강조하려고 앞뒤에 공백을 줬다.
-        // 공백을 넣으면 두 가지 주요 요소가 확실하게 나뉜다는 사실이 더욱 분명해진다.
+        // 공백을 넣으면 두 가지 주요 요소가 확실하게 나뉜다는 사실이 더욱 분명해진다!
     }
 
     private static double determinant(double a, double b, double c) {
