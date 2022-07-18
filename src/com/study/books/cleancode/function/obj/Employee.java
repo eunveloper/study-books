@@ -8,6 +8,8 @@ public abstract class Employee {
     public abstract Money calculatePay();
     public abstract void deliverPay();
 
+    public abstract int getPay();
+
     public enum Type {
         COMMISSIONED, HOURLY, SALARIED
     }
